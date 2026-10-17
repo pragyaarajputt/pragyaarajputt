@@ -31,7 +31,9 @@
 
 ## 🌟 Featured Projects
 
-### [AI Social Media Post Drip Platform](https://github.com/pragyaarajputt/ai-social-platform)
+### PostDrip: AI Social Media Post Drip Platform
+🔗 **[Live Demo](https://ai-social-platform-nine.vercel.app)** · **[Source Code](https://github.com/pragyaarajputt/ai-social-platform)**
+
 Full-stack TypeScript SaaS that generates social media posts with **Gemini/Claude** and publishes them as scheduled drip campaigns.
 - OAuth connections for Instagram, Facebook, LinkedIn and Google; Cloudinary media; background job queue
 - Secure auth: refresh-token rotation with reuse detection, login lockout, email verification, workspace roles
