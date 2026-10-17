@@ -11,12 +11,12 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:** JavaScript, TypeScript, SQL, C++ (DSA)
-**Frontend & Mobile:** React 19, Next.js 16, React Native (Expo), Tailwind CSS 4, HTML5, CSS3  
-**Backend:** Node.js, Express 5, REST APIs, Prisma 7, OAuth (Google, Instagram, Facebook, LinkedIn), RBAC, background job queues  
-**Databases:** PostgreSQL, MongoDB, MySQL
-**Cloud & Tools:** AWS, Vercel, Neon, Docker, Git, GitHub, Postman, Cloudinary  
-**AI:** Claude and Gemini APIs for AI content generation
+- **Languages:** JavaScript, TypeScript, SQL, C++ (DSA)
+- **Frontend & Mobile:** React 19, Next.js 16, React Native (Expo), Tailwind CSS 4, HTML5, CSS3
+- **Backend:** Node.js, Express 5, REST APIs, Prisma 7, OAuth (Google, Instagram, Facebook, LinkedIn), RBAC, background job queues
+- **Databases:** PostgreSQL, MongoDB, MySQL
+- **Cloud & Tools:** AWS, Vercel, Neon, Docker, Git, GitHub, Postman, Cloudinary
+- **AI:** Claude and Gemini APIs for AI content generation
 
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
